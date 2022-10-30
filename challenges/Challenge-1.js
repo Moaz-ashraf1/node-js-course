@@ -1,3 +1,5 @@
+// In this challenge I used the knowledge of yargs package and added some options to the commands
+
 
 const yargs = require('yargs');
 
